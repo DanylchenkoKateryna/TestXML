@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfXDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XDictionary>
+    <FileName>Equitable- Favorite Healthcare Staffing Inc - Proposal 3.pdf</FileName>
+    <Carrier>Equitable</Carrier>
+    <NamedInsured>Case Proposals</NamedInsured>
+    <LineOfCoverage>Critical Illness</LineOfCoverage>
+    <EmployeeIncrements>$5,000</EmployeeIncrements>
+    <EmployeeMaximum>$25,000</EmployeeMaximum>
+    <SpouseIncrementsOrPercentage>$2,500</SpouseIncrementsOrPercentage>
+    <SpouseMaximum>$12,500</SpouseMaximum>
+    <SpousePercOfEmployeeBenefitLimit>50%</SpousePercOfEmployeeBenefitLimit>
+    <ChildBenefitAmount>$2,500</ChildBenefitAmount>
+    <ChildMaximum>$5,000</ChildMaximum>
+    <ChildPercOfEmployeeBenefitLimit>50%</ChildPercOfEmployeeBenefitLimit>
+    <EmployeeGuaranteeIssue>$25,000</EmployeeGuaranteeIssue>
+    <SpouseGuaranteeIssue>$12,500</SpouseGuaranteeIssue>
+    <ChildGuaranteeIssue>$5,000</ChildGuaranteeIssue>
+    <InvasiveOrMalignantCancer>100%</InvasiveOrMalignantCancer>
+    <Category1Vascular>100%</Category1Vascular>
+    <OrganOrKidneyFailure>100%</OrganOrKidneyFailure>
+    <RecurrenceDifferentIllnessWaitingPeriod>Unlimited</RecurrenceDifferentIllnessWaitingPeriod>
+    <SecondOccurrenceOfSameIllnessWaitingPeriod>Included</SecondOccurrenceOfSameIllnessWaitingPeriod>
+    <AgeReduction>None</AgeReduction>
+    <PreExistingCondition>12/12</PreExistingCondition>
+    <Portability>Included</Portability>
+    <WellnessBenefit>$50</WellnessBenefit>
+    <EmployerContributionLevel>Voluntary</EmployerContributionLevel>
+    <AgeBasis>Attained</AgeBasis>
+    <DependentAgeLimits>26</DependentAgeLimits>
+    <ParticipationRequirement>&gt;10% or 5 Lives</ParticipationRequirement>
+    <RateAge25>$4.74</RateAge25>
+    <RateAge35>$7.54</RateAge35>
+    <RateAge45>$15.64</RateAge45>
+    <RateAge55>$30.84</RateAge55>
+    <IsWellnessBenefitCostIncluded>Yes</IsWellnessBenefitCostIncluded>
+    <RateGuarantee>2 Years</RateGuarantee>
+  </XDictionary>
+</ArrayOfXDictionary>
